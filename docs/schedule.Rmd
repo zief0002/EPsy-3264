@@ -1,0 +1,142 @@
+# Schedule
+
+Below is the tenative schedule for the class. The dates are subject to change at the instructor's discretion. Readings should be completed prior to class. Assignments are due at the beginning of the class period that they are due
+
+<br />
+
+## Calendar
+
+<br />
+
+<table class="table">
+<tbody>
+
+<tr>
+<td colspan="3"><b>Unit 0: Introduction</b></td>
+</tr>
+
+<tr>
+<td align="center" style="vertical-align:middle;width:5%;">&nbsp;</td>
+<td style="width:15%;">Sept. 04</td>
+<td style="vertical-align:middle;width:80%;">Introduction to EPsy 3264</td>
+</tr>
+
+<tr>
+<td colspan="3">**Unit 1: Modeling and Simulation**</td>
+</tr>
+
+<tr>
+<td rowspan="3" align="center" style="vertical-align:middle;">&nbsp;</td>
+<td rowspan="3" style="vertical-align:middle;">Sept. 09</td>
+<td style="vertical-align:middle;">**_Reading:_** [Introduction](https://zief0002.github.io/statistical-thinking/introduction.html)</td>
+</tr>
+
+<tr>
+<td style="vertical-align:middle;">**_Reading:_** [Modeling &amp; Simulation](https://zief0002.github.io/statistical-thinking/modeling-simulation.html)</td>
+</tr>
+
+<tr>
+<td style="vertical-align:middle;">Spotify Playlists</td>
+</tr>
+
+
+<tr>
+<td rowspan="3" align="center" style="vertical-align:middle;">&nbsp;</td>
+<td rowspan="3" style="vertical-align:middle;">Sept. 11</td>
+<td style="vertical-align:middle;">**_Reading:_** [Generating Data From Models](https://zief0002.github.io/statistical-thinking/generating-data-from-models.html)</td>
+</tr>
+
+<tr>
+<td style="vertical-align:middle;" bgcolor="#bccBd8">**Assignment &#35;1 Due (Learning TinkerPlots)**</td>
+</tr>
+
+<tr>
+<td style="vertical-align:middle;">Generating Random Data&mdash;Cat Factory</td>
+</tr>
+
+
+<tr>
+<td rowspan="2" align="center" style="vertical-align:middle;">&nbsp;</td>
+<td rowspan="2" style="vertical-align:middle;">Sept. 16</td>
+<td style="vertical-align:middle;">**_Reading:_** [Monte Carlo Simulation](https://zief0002.github.io/statistical-thinking/monte-carlo-simulation.html)</td>
+</tr>
+
+<tr>
+<td style="vertical-align:middle;">Introduction to Monte Carlo Simulation</td>
+</tr>
+
+<tr>
+<td rowspan="2" align="center" style="vertical-align:middle;">&nbsp;</td>
+<td rowspan="2" style="vertical-align:middle;">Sept. 18</td>
+<td style="vertical-align:middle;" bgcolor="#bccBd8">**Assignment &#35;2 Due (Free Throws)**</td>
+</tr>
+
+<tr>
+<td style="vertical-align:middle;">Automating the Simulation Process</td>
+</tr>
+
+<tr>
+<td align="center" style="vertical-align:middle;">&nbsp;</td>
+<td style="vertical-align:middle;">Sept. 23</td>
+<td style="vertical-align:middle;" bgcolor="#e6eb81">**Group Quiz &#35;1**</td>
+</tr>
+
+<tr>
+<td colspan="3">**Unit 2: Modeling Sampling Variation**</td>
+</tr>
+
+<tr>
+<td rowspan="2" align="center" style="vertical-align:middle;">&nbsp;</td>
+<td rowspan="2" style="vertical-align:middle;">Sept. 25</td>
+<td style="vertical-align:middle;">**_Reading:_** [Modeling Sampling Variation](https://zief0002.github.io/statistical-thinking/modeling-sampling-variation.html)</td>
+</tr>
+
+<tr>
+<td style="vertical-align:middle;">Monday Breakups</td>
+</tr>
+
+<tr>
+<td align="center" style="vertical-align:middle;">&nbsp;</td>
+<td style="vertical-align:middle;">Sept. 30</td>
+<td style="vertical-align:middle;">Features of Distributions</td>
+</tr>
+
+<tr>
+<td rowspan="3" align="center" style="vertical-align:middle;">&nbsp;</td>
+<td rowspan="3" style="vertical-align:middle;">Sept. 25</td>
+<td style="vertical-align:middle;">**_Reading:_** [Describing Distributions](https://zief0002.github.io/statistical-thinking/describing-distributions.html)</td>
+</tr>
+
+<tr>
+<td style="vertical-align:middle;" bgcolor="#bccBd8">**Assignment &#35;3 Due (Motorcycle Helmet Law)**</td>
+</tr>
+
+<tr>
+<td style="vertical-align:middle;">Helper or Hinderer</td>
+</tr>
+
+<tr>
+<td align="center" style="vertical-align:middle;">&nbsp;</td>
+<td style="vertical-align:middle;">Oct. 7</td>
+<td style="vertical-align:middle;">Comparing Hand Spans</td>
+</tr>
+
+<tr>
+<td rowspan="2" align="center" style="vertical-align:middle;">&nbsp;</td>
+<td rowspan="2" style="vertical-align:middle;">Oct. 9</td>
+<td style="vertical-align:middle;" bgcolor="#bccBd8">**Assignment &#35;4 Due (College Debt)**</td>
+</tr>
+
+<tr>
+<td style="vertical-align:middle;">Racial Bias in Police Stops</td>
+</tr>
+
+<tr>
+<td align="center" style="vertical-align:middle;">&nbsp;</td>
+<td style="vertical-align:middle;">Oct. 14</td>
+<td style="vertical-align:middle;" bgcolor="#e6eb81">**Group Quiz &#35;2**</td>
+</tr>
+
+</tbody>
+</table>    
+

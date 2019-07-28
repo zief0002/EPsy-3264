@@ -1,0 +1,108 @@
+# Assignments
+
+Below are the due dates for the assignments, as well as links to the RMD and PDF files for each assignment. The due dates may change at the instructor's discretion. Any revised due dates will be announced in class and posted to the website.
+
+<br />
+
+<table class="table">
+
+<thead>
+<tr>
+<th style="width:60%;">Assignment</th>
+<th style="width:30%;">Due Date</th>
+<th style="width:10%;text-align:center">PDF</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td>Assignment \#1: *Learning TinkerPlots*</td>
+<td>Sept. 11</td>
+<td align="center" style="vertical-align:middle;">
+  <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/assignment-01-learning-tinkerplots.pdf">
+    <span class="fa fa-file-pdf" style="color: #ff2600; font-size: 20px;"></span>
+  </a>
+</td>
+</tr>
+
+
+<tr>
+<td>Assignment \#2: *Free Throws*</td>
+<td>Sept. 18</td>
+<td align="center" style="vertical-align:middle;">
+  <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/assignment-02-free-throws.pdf">
+    <span class="fa fa-file-pdf" style="color: #ff2600; font-size: 20px;"></span>
+  </a>
+</td>
+</tr>
+
+
+<tr>
+<td>Assignment \#3: *Motorcycle Helmet Laws*</td>
+<td>Oct. 2</td>
+<td align="center" style="vertical-align:middle;">
+  <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/assignment-03-motorcycle-helmet-laws.pdf">
+    <span class="fa fa-file-pdf" style="color: #ff2600; font-size: 20px;"></span>
+  </a>
+</td>
+</tr>
+
+
+<tr>
+<td>Assignment \#4: *College Debt*</td>
+<td>Oct. 9</td>
+<td align="center" style="vertical-align:middle;">
+  <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/assignment-04-college-debt.pdf">
+    <span class="fa fa-file-pdf" style="color: #ff2600; font-size: 20px;"></span>
+  </a>
+</td>
+</tr>
+
+
+<tr>
+<td>Assignment \#5: *Dolphin Therapy*</td>
+<td>Oct.30</td>
+<td align="center" style="vertical-align:middle;">
+  <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/assignment-05-dolphin-therapy.pdf">
+    <span class="fa fa-file-pdf" style="color: #ff2600; font-size: 20px;"></span>
+  </a>
+</td>
+</tr>
+
+
+<tr>
+<td>Assignment \#6: *Lyric Readability*</td>
+<td>Nov. 18</td>
+<td align="center" style="vertical-align:middle;">
+  <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/assignment-06-lyric-readability.pdf">
+    <span class="fa fa-file-pdf" style="color: #ff2600; font-size: 20px;"></span>
+  </a>
+</td>
+</tr>
+
+
+<tr>
+<td>Assignment \#7: *College Student Health Survey*</td>
+<td>Dec. 2</td>
+<td align="center" style="vertical-align:middle;">
+  <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/assignment-07-college-student-health-survey.pdf">
+    <span class="fa fa-file-pdf" style="color: #ff2600; font-size: 20px;"></span>
+  </a>
+</td>
+</tr>
+
+
+<tr>
+<td>Assignment \#8: *TBA*</td>
+<td>Dec. 11</td>
+<td align="center" style="vertical-align:middle;">
+  <!-- <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/assignment-07-college-student-health-survey.pdf"> -->
+    <span class="fa fa-file-pdf" style="color: #f1f1f1; font-size: 20px;"></span>
+  </a>
+</td>
+</tr>
+
+
+</tbody>
+</table>
