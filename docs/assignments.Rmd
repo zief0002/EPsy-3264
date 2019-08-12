@@ -1,6 +1,6 @@
 # Assignments
 
-Below are the due dates for the assignments, as well as links to the RMD and PDF files for each assignment. The due dates may change at the instructor's discretion. Any revised due dates will be announced in class and posted to the website.
+Below are the due dates for the assignments, as well as links to the PDF files for each assignment. The due dates may change at the instructor's discretion. Any revised due dates will be announced in class and posted to the website.
 
 <br />
 
@@ -20,7 +20,7 @@ Below are the due dates for the assignments, as well as links to the RMD and PDF
 <td>Assignment \#1: *Learning TinkerPlots*</td>
 <td>Sept. 11</td>
 <td align="center" style="vertical-align:middle;">
-  <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/assignment-01-learning-tinkerplots.pdf">
+  <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/f19-assignment-01-learning-to-use-tinkerplots">
     <span class="fa fa-file-pdf" style="color: #ff2600; font-size: 20px;"></span>
   </a>
 </td>
@@ -31,7 +31,7 @@ Below are the due dates for the assignments, as well as links to the RMD and PDF
 <td>Assignment \#2: *Free Throws*</td>
 <td>Sept. 18</td>
 <td align="center" style="vertical-align:middle;">
-  <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/assignment-02-free-throws.pdf">
+  <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/f19-assignment-02-free-throws.pdf">
     <span class="fa fa-file-pdf" style="color: #ff2600; font-size: 20px;"></span>
   </a>
 </td>
@@ -39,10 +39,10 @@ Below are the due dates for the assignments, as well as links to the RMD and PDF
 
 
 <tr>
-<td>Assignment \#3: *Motorcycle Helmet Laws*</td>
+<td>Assignment \#3: *Distracted Driving*</td>
 <td>Oct. 2</td>
 <td align="center" style="vertical-align:middle;">
-  <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/assignment-03-motorcycle-helmet-laws.pdf">
+  <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/f19-assignment-03-distracted-driving.pdf">
     <span class="fa fa-file-pdf" style="color: #ff2600; font-size: 20px;"></span>
   </a>
 </td>
@@ -53,7 +53,7 @@ Below are the due dates for the assignments, as well as links to the RMD and PDF
 <td>Assignment \#4: *College Debt*</td>
 <td>Oct. 9</td>
 <td align="center" style="vertical-align:middle;">
-  <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/assignment-04-college-debt.pdf">
+  <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/f19-assignment-04-college-debt.pdf">
     <span class="fa fa-file-pdf" style="color: #ff2600; font-size: 20px;"></span>
   </a>
 </td>
@@ -64,7 +64,7 @@ Below are the due dates for the assignments, as well as links to the RMD and PDF
 <td>Assignment \#5: *Dolphin Therapy*</td>
 <td>Oct.30</td>
 <td align="center" style="vertical-align:middle;">
-  <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/assignment-05-dolphin-therapy.pdf">
+  <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/f19-assignment-05-dolphin-therapy.pdf">
     <span class="fa fa-file-pdf" style="color: #ff2600; font-size: 20px;"></span>
   </a>
 </td>
@@ -75,7 +75,7 @@ Below are the due dates for the assignments, as well as links to the RMD and PDF
 <td>Assignment \#6: *Lyric Readability*</td>
 <td>Nov. 18</td>
 <td align="center" style="vertical-align:middle;">
-  <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/assignment-06-lyric-readability.pdf">
+  <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/f19-assignment-06-lyrical-readability.pdf">
     <span class="fa fa-file-pdf" style="color: #ff2600; font-size: 20px;"></span>
   </a>
 </td>
@@ -86,7 +86,7 @@ Below are the due dates for the assignments, as well as links to the RMD and PDF
 <td>Assignment \#7: *College Student Health Survey*</td>
 <td>Dec. 2</td>
 <td align="center" style="vertical-align:middle;">
-  <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/assignment-07-college-student-health-survey.pdf">
+  <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/f19-assignment-07-college-student-health-survey.pdf">
     <span class="fa fa-file-pdf" style="color: #ff2600; font-size: 20px;"></span>
   </a>
 </td>
@@ -94,11 +94,11 @@ Below are the due dates for the assignments, as well as links to the RMD and PDF
 
 
 <tr>
-<td>Assignment \#8: *TBA*</td>
+<td>Assignment \#8: *Dolphins and Pigs*</td>
 <td>Dec. 11</td>
 <td align="center" style="vertical-align:middle;">
-  <!-- <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/assignment-07-college-student-health-survey.pdf"> -->
-    <span class="fa fa-file-pdf" style="color: #f1f1f1; font-size: 20px;"></span>
+    <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/f19-assignment-08-dolphins-and-pigs.pdf">
+    <span class="fa fa-file-pdf" style="color: #ff2600; font-size: 20px;"></span>
   </a>
 </td>
 </tr>

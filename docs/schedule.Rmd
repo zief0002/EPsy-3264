@@ -108,7 +108,7 @@ Below is the tenative schedule for the class. The dates are subject to change at
 </tr>
 
 <tr>
-<td style="vertical-align:middle;" bgcolor="#bccBd8">**Assignment &#35;3 Due (Motorcycle Helmet Law)**</td>
+<td style="vertical-align:middle;" bgcolor="#bccBd8">**Assignment &#35;3 Due (Distracted Driving)**</td>
 </tr>
 
 <tr>
@@ -117,24 +117,190 @@ Below is the tenative schedule for the class. The dates are subject to change at
 
 <tr>
 <td align="center" style="vertical-align:middle;">&nbsp;</td>
-<td style="vertical-align:middle;">Oct. 7</td>
+<td style="vertical-align:middle;">Oct. 07</td>
 <td style="vertical-align:middle;">Comparing Hand Spans</td>
 </tr>
 
 <tr>
 <td rowspan="2" align="center" style="vertical-align:middle;">&nbsp;</td>
-<td rowspan="2" style="vertical-align:middle;">Oct. 9</td>
+<td rowspan="2" style="vertical-align:middle;">Oct. 09</td>
 <td style="vertical-align:middle;" bgcolor="#bccBd8">**Assignment &#35;4 Due (College Debt)**</td>
 </tr>
 
 <tr>
-<td style="vertical-align:middle;">Racial Bias in Police Stops</td>
+<td style="vertical-align:middle;">Racial Disparities in Police Stops</td>
 </tr>
 
 <tr>
 <td align="center" style="vertical-align:middle;">&nbsp;</td>
 <td style="vertical-align:middle;">Oct. 14</td>
 <td style="vertical-align:middle;" bgcolor="#e6eb81">**Group Quiz &#35;2**</td>
+</tr>
+
+<tr>
+<td colspan="3">**Unit 3: Experimental Variation and the Randomization Test**</td>
+</tr>
+
+<tr>
+<td rowspan="2" align="center" style="vertical-align:middle;">&nbsp;</td>
+<td rowspan="2" style="vertical-align:middle;">Oct. 16</td>
+<td style="vertical-align:middle;">**_Reading:_** [Experimental Variation and the Randomization Test](https://zief0002.github.io/statistical-thinking/experimental-variation-and-the-randomization-test.html)</td>
+</tr>
+
+<tr>
+<td style="vertical-align:middle;">Memorization</td>
+</tr>
+
+<tr>
+<td align="center" style="vertical-align:middle;">&nbsp;</td>
+<td style="vertical-align:middle;">Oct. 21</td>
+<td style="vertical-align:middle;">Memorization using TinkerPlots</td>
+</tr>
+
+<tr>
+<td align="center" style="vertical-align:middle;">&nbsp;</td>
+<td style="vertical-align:middle;">Oct. 23</td>
+<td style="vertical-align:middle;">Sleep Deprivation</td>
+</tr>
+
+<tr>
+<td rowspan="2" align="center" style="vertical-align:middle;">&nbsp;</td>
+<td rowspan="2" style="vertical-align:middle;">Oct. 28</td>
+<td style="vertical-align:middle;">**_Reading:_** [Quantifying Results: p-Value](https://zief0002.github.io/statistical-thinking/quantifying-results-p-value.html)</td>
+</tr>
+
+<tr>
+<td style="vertical-align:middle;">Contagious Yawns</td>
+</tr>
+
+<tr>
+<td rowspan="3" align="center" style="vertical-align:middle;">&nbsp;</td>
+<td rowspan="3" style="vertical-align:middle;">Oct. 30</td>
+<td style="vertical-align:middle;">**_Reading:_** [Internal Validity Evidence and Random Assignment](https://zief0002.github.io/statistical-thinking/internal-validity-evidence-and-random-assignment.html)</td>
+</tr>
+
+<tr>
+<td style="vertical-align:middle;" bgcolor="#bccBd8">**Assignment &#35;5 Due (Dolphin Therapy)**</td>
+</tr>
+
+<tr>
+<td style="vertical-align:middle;">Strength Shoe</td>
+</tr>
+
+<tr>
+<td align="center" style="vertical-align:middle;">&nbsp;</td>
+<td style="vertical-align:middle;">Nov. 04</td>
+<td style="vertical-align:middle;" bgcolor="#e6eb81">**Group Quiz &#35;3**</td>
+</tr>
+
+<tr>
+<td colspan="3">**Unit 4: Sampling Variation and the Bootstrap Test**</td>
+</tr>
+
+<tr>
+<td rowspan="2" align="center" style="vertical-align:middle;">&nbsp;</td>
+<td rowspan="2" style="vertical-align:middle;">Nov. 06</td>
+<td style="vertical-align:middle;">**_Reading:_** [Sampling Variation and the Bootstrap Test](https://zief0002.github.io/statistical-thinking/sampling-variation-and-the-bootstrap-test.html)</td>
+</tr>
+
+<tr>
+<td style="vertical-align:middle;">Speed Skating</td>
+</tr>
+
+<tr>
+<td rowspan="2" align="center" style="vertical-align:middle;">&nbsp;</td>
+<td rowspan="2" style="vertical-align:middle;">Nov. 11</td>
+<td style="vertical-align:middle;">**_Reading:_** [External Validity Evidence and Random Sampling](https://zief0002.github.io/statistical-thinking/external-validity-evidence-and-random-sampling.html)</td>
+</tr>
+
+<tr>
+<td style="vertical-align:middle;">Gettysburg Address</td>
+</tr>
+
+<tr>
+<td rowspan="3" align="center" style="vertical-align:middle;">&nbsp;</td>
+<td rowspan="3" style="vertical-align:middle;">Nov. 13</td>
+<td style="vertical-align:middle;">**_Reading:_** [Validity Evidence and Inferences](https://zief0002.github.io/statistical-thinking/validity-evidence-and-inferences.html)</td>
+</tr>
+
+<tr>
+<td style="vertical-align:middle;">**_Reading:_** [Observational Studies and the Bootstrap Test](https://zief0002.github.io/statistical-thinking/observational-studies-and-the-bootstrap-test.html)</td>
+</tr>
+
+<tr>
+<td style="vertical-align:middle;">Murderous Nurse</td>
+</tr>
+
+<tr>
+<td rowspan="2" align="center" style="vertical-align:middle;">&nbsp;</td>
+<td rowspan="2" style="vertical-align:middle;">Nov. 18</td>
+<td style="vertical-align:middle;" bgcolor="#bccBd8">**Assignment &#35;6 Due (Lyric Readability)**</td>
+</tr>
+
+<tr>
+<td style="vertical-align:middle;">Movie Sequels</td>
+</tr>
+
+<tr>
+<td align="center" style="vertical-align:middle;">&nbsp;</td>
+<td style="vertical-align:middle;">Nov. 20</td>
+<td style="vertical-align:middle;" bgcolor="#e6eb81">**Group Quiz &#35;4**</td>
+</tr>
+
+<tr>
+<td colspan="3">**Unit 5: Estimating Uncertainty**</td>
+</tr>
+
+<tr>
+<td rowspan="2" align="center" style="vertical-align:middle;">&nbsp;</td>
+<td rowspan="2" style="vertical-align:middle;">Nov. 25</td>
+<td style="vertical-align:middle;">**_Reading:_** [Estimating Uncertainty](https://zief0002.github.io/statistical-thinking/estimating-uncertainty.html)</td>
+</tr>
+
+<tr>
+<td style="vertical-align:middle;">Kissing the ‘Right’ Way</td>
+</tr>
+
+<tr>
+<td align="center" style="vertical-align:middle;">&nbsp;</td>
+<td style="vertical-align:middle;">Nov. 27</td>
+<td style="vertical-align:middle;">Cuddling Preferences</td>
+</tr>
+
+<tr>
+<td rowspan="3" align="center" style="vertical-align:middle;">&nbsp;</td>
+<td rowspan="3" style="vertical-align:middle;">Dec. 02</td>
+<td style="vertical-align:middle;">**_Reading:_** [Uncertainty and Bias](https://zief0002.github.io/statistical-thinking/uncertainty-and-bias.html)</td>
+</tr>
+
+<tr>
+<td style="vertical-align:middle;" bgcolor="#bccBd8">**Assignment &#35;7 Due (College Student Health Survey)**</td>
+</tr>
+
+<tr>
+<td style="vertical-align:middle;">Minnesota College Debt</td>
+</tr>
+
+<tr>
+<td align="center" style="vertical-align:middle;">&nbsp;</td>
+<td style="vertical-align:middle;">Dec. 04</td>
+<td style="vertical-align:middle;">Comparing Cuddling Preferences</td>
+</tr>
+
+<tr>
+<td align="center" style="vertical-align:middle;">&nbsp;</td>
+<td style="vertical-align:middle;">Dec. 09</td>
+<td style="vertical-align:middle;" bgcolor="#e6eb81">**Group Quiz &#35;5**</td>
+</tr>
+
+<tr>
+<td rowspan="2" align="center" style="vertical-align:middle;">&nbsp;</td>
+<td rowspan="2" style="vertical-align:middle;">Dec. 11</td>
+<td style="vertical-align:middle;" bgcolor="#bccBd8">**Assignment &#35;8 Due (Dolphins and Pigs)**</td>
+</tr>
+
+<tr>
+<td style="vertical-align:middle;">TBA</td>
 </tr>
 
 </tbody>
