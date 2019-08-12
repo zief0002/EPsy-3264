@@ -20,7 +20,7 @@ Below are the due dates for the assignments, as well as links to the PDF files f
 <td>Assignment \#1: *Learning TinkerPlots*</td>
 <td>Sept. 11</td>
 <td align="center" style="vertical-align:middle;">
-  <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/f19-assignment-01-learning-to-use-tinkerplots">
+  <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/f19-assignment-01-learning-to-use-tinkerplots.pdf">
     <span class="fa fa-file-pdf" style="color: #ff2600; font-size: 20px;"></span>
   </a>
 </td>
