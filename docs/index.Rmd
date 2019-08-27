@@ -40,9 +40,9 @@ Welcome to *EPsy 3264: Basic and Applied Statistics*.
 
 ### Instructor {-}
 
-Andrew Zieffler ([zief0002@umn.edu](mailto://zief0002@umn.edu)) <br />
-**Office:** [Education Sciences Building 178](https://www.google.com/maps/place/Education+Sciences+Building/@44.9784043,-93.2394586,15z/data=!4m2!3m1!1s0x0:0x45656dac481b9150)  <br />
-**Office Hours:** Tuesday 9:30 AM&ndash;10:30 AM; and by appointment
+**Andrew Zieffler** ([zief0002@umn.edu](mailto://zief0002@umn.edu)) <br />
+*Office:* [Education Sciences Building 178](https://www.google.com/maps/place/Education+Sciences+Building/@44.9784043,-93.2394586,15z/data=!4m2!3m1!1s0x0:0x45656dac481b9150)  <br />
+*Office Hours:* Tuesday 9:00 AM&ndash;10:00 AM; and by appointment
 
 <br />
 
@@ -84,27 +84,27 @@ We have four Teaching Assisstants who you can help you with the course material:
 
 <br />
 
-Manos Hatzimalonas ([manos@philotimo.org](mailto://manos@philotimo.org))  <br />
-**Office:** [Education Sciences Building 192](https://www.google.com/maps/place/Education+Sciences+Building/@44.9784043,-93.2394586,15z/data=!4m2!3m1!1s0x0:0x45656dac481b9150)  <br />
-**Office Hours:** Thursdays 1:00 PM&ndash;3:00 PM; and by appointment
+**Jesslyn Valerie** ([valer066@umn.edu](mailto://valer066@umn.edu))  <br />
+*Office:* [Education Sciences Building 196](https://www.google.com/maps/place/Education+Sciences+Building/@44.9784043,-93.2394586,15z/data=!4m2!3m1!1s0x0:0x45656dac481b9150)  <br />
+*Office Hours:* Wednesday 1:00 PM&ndash;2:00 PM; and by appointment
 
 <br />
 
-Sam Ihlenfeldt ([ihlen010@umn.edu](mailto://ihlen010@umn.edu))  <br />
-**Office:** [Education Sciences Building 192](https://www.google.com/maps/place/Education+Sciences+Building/@44.9784043,-93.2394586,15z/data=!4m2!3m1!1s0x0:0x45656dac481b9150)  <br />
-**Office Hours:** Thursdays 1:00 PM&ndash;3:00 PM; and by appointment
+**Sam Ihlenfeldt** ([ihlen010@umn.edu](mailto://ihlen010@umn.edu))  <br />
+*Office:* [Education Sciences Building 193](https://www.google.com/maps/place/Education+Sciences+Building/@44.9784043,-93.2394586,15z/data=!4m2!3m1!1s0x0:0x45656dac481b9150)  <br />
+*Office Hours:* TBD; and by appointment
 
 <br />
 
-Johanna Schultz ([schu4338@umn.edu](mailto://schu4338@umn.edu))  <br />
-**Office:** [Education Sciences Building 192](https://www.google.com/maps/place/Education+Sciences+Building/@44.9784043,-93.2394586,15z/data=!4m2!3m1!1s0x0:0x45656dac481b9150)  <br />
-**Office Hours:** Thursdays 1:00 PM&ndash;3:00 PM; and by appointment
+**Johanna Schultz** ([schu4338@umn.edu](mailto://schu4338@umn.edu))  <br />
+*Office:* [Education Sciences Building 192](https://www.google.com/maps/place/Education+Sciences+Building/@44.9784043,-93.2394586,15z/data=!4m2!3m1!1s0x0:0x45656dac481b9150)  <br />
+*Office Hours:* Monday 10:00 PM&ndash;11:00 AM; and by appointment
 
 <br />
 
-Jesslyn Valerie ([valer066@umn.edu](mailto://valer066@umn.edu))  <br />
-**Office:** [Education Sciences Building 192](https://www.google.com/maps/place/Education+Sciences+Building/@44.9784043,-93.2394586,15z/data=!4m2!3m1!1s0x0:0x45656dac481b9150)  <br />
-**Office Hours:** Thursdays 1:00 PM&ndash;3:00 PM; and by appointment
+**Manos Hatzimalonas** ([manos@philotimo.org](mailto://manos@philotimo.org))  <br />
+*Office:* [Education Sciences Building 192](https://www.google.com/maps/place/Education+Sciences+Building/@44.9784043,-93.2394586,15z/data=!4m2!3m1!1s0x0:0x45656dac481b9150)  <br />
+*Office Hours:* Thursday 1:30 PM&ndash;3:30 PM; and by appointment
 
 
 ```{r child = 'schedule.Rmd'}
