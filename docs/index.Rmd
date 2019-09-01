@@ -106,6 +106,9 @@ We have four Teaching Assisstants who you can help you with the course material:
 *Office:* [Education Sciences Building 192](https://www.google.com/maps/place/Education+Sciences+Building/@44.9784043,-93.2394586,15z/data=!4m2!3m1!1s0x0:0x45656dac481b9150)  <br />
 *Office Hours:* Thursday 1:30 PM&ndash;3:30 PM; and by appointment
 
+<br />
+
+Before coming for help, you may want to review the [Asking Helpful Questions](#questions) section of the website.
 
 ```{r child = 'schedule.Rmd'}
 ```
@@ -115,7 +118,8 @@ We have four Teaching Assisstants who you can help you with the course material:
 ```
 
 
-
+```{r child = 'questions.Rmd'}
+```
 
 
 

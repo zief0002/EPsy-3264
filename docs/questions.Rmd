@@ -1,0 +1,74 @@
+# Asking Helpful Questions {#questions}
+
+Asking questions is part of the learning process, and if you are stuck on a homework assignment or concerned about your course performance, please ask! However, since your work on the assignments is one way we evaluate your performance, there is a delicate balance to how the instructors and TAs will respond to your questions.
+
+Below are a few examples of the types of questions or statements that students have had for the teaching team that are difficult for the teaching team to address.
+
+<br />
+
+## Requests for "Pre-Grading"
+
+Here are examples of these types of requests:
+
+- "Could you look over my assignment and let me know if I did anything wrong?"
+- "Is my answer correct?"
+- "Did I write enough for this answer?"
+
+The teaching team **will not directly answer these requests**. You will be redirected to ask something more specific.
+
+### What to Do Instead
+
+- If you completed the assignment without any trouble, then be confident in your work and simply submit the assignment! `r emo::ji("smile")`
+- If you’re unsure about something specific, then ask about that specific thing!
+  + *Helpful example:* "Do we need to include the plot for Question 2?"
+  + *Helpful example:* "Do we need to define the *p*-value when using it as evidence for answering the research question?"
+- If you are having trouble knowing what to include in your answer, then ask about what the question is looking for
+  + *Helpful example:* "Question 4 asks us to refer to our Sampler in the answer. How much detail is needed when referring to the Sampler?"
+  + *Helpful example:* "I know Question 8 is asking about [...], but I'm not sure what this question is looking for. Is there another way to restate this question?"
+
+<br />
+
+##  Completely Open-Ended Requests
+
+Here are examples of these types of requests:
+
+- "I looked at the homework, but I do not know what to do. Can you give me a hint?"
+- "I did Step 1, what do I do next?"
+
+The teaching team finds these requests difficult because the assignments are an evaluation of your skills and knowledge. So when you ask these types of questions it begins to blur the lines about whether the answers on the homework reflect what you know (we can't do the homework for you).
+
+
+### What to Do Instead
+
+- Identify something specific to ask about. What specifically are you unsure about? Putting in additional thought to ask a more specific question may both (1) help you better understand the assignment, and (2) actually hep you answer your own question!
+  + Since the homework typically reflects what you did during the in-class activities, the most helpful thing to do is to ask which part of an activity you should review. This is partly why understanding the in-class activities is crucial.
+  + *Helpful example:* "I'm concerned my TinkerPlots sampler is not set up correctly. Which activity provides a similar example that I can use as a comparison?"
+
+<br />
+
+## Other Requests that are Difficult to Respond To
+
+Here are examples of these types of requests:
+
+- "I really need an 'A' in this class."
+- "I'm so close to a higher grade. Can you look over my past assignments and find a way to
+give me some points back?"
+
+We understand that your grade is important to you. However, even if it is not intended, the implication of these statements is for the teaching team to do something unethical, such as grade things differently for different students.
+
+### What to Do Instead
+
+- Ask about ways to improve your *future performance* in the course
+  + *Helpful example:* "I really want to do well in this class. What else can I do to ensure I succeed?"
+  + *Helpful example:* "I would like to earn a better grade on future assignments and quizzes. What advice do you have?"
+- Ask about predicting what your potential grade may be, based on a number of scenarios – we’re happy to forecast your grade for you!
+  + *Helpful example:* "Score-wise, what do I need on the remaining coursework to earn an 'A' in the course?"
+- If you think your grade or scores were computed incorrectly, then please ask; we will double-check!
+
+
+<br />
+
+## Final Suggestions for Effective Professional Habits
+
+- Please ask for assistance before a deadline! Asking a lot of homework questions 10 minutes before a deadline or after a deadline reinforces unhelpful work habits and may put you and the teaching team in a difficult situation. It also conveys, whether you meant to or not, that you do not care about the learning; only the grade.
+- For any appointments outside of office hours, please show up! If you cannot make the agreed upon meeting, please send a message of cancellation to the instructor or TA you had planned to meet with. Not showing up to a scheduled appointment without communicating is a bad habit to form and is unprofessional in any setting. A little bit of professionalism goes a long way!
