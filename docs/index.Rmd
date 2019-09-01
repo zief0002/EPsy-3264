@@ -108,7 +108,7 @@ We have four Teaching Assisstants who you can help you with the course material:
 
 <br />
 
-Before coming for help, you may want to review the [Asking Helpful Questions](#questions) section of the website.
+Before coming for help, you may want to review the [Asking Helpful Questions](https://zief0002.github.io/epsy-3264/#questions) section of the website.
 
 ```{r child = 'schedule.Rmd'}
 ```
