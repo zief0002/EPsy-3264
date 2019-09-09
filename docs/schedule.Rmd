@@ -41,13 +41,9 @@ Below is the tenative schedule for the class. The dates are subject to change at
 
 
 <tr>
-<td rowspan="3" align="center" style="vertical-align:middle;">&nbsp;</td>
-<td rowspan="3" style="vertical-align:middle;">Sept. 11</td>
+<td rowspan="2" align="center" style="vertical-align:middle;">&nbsp;</td>
+<td rowspan="2" style="vertical-align:middle;">Sept. 11</td>
 <td style="vertical-align:middle;">**_Reading:_** [Generating Data From Models](https://zief0002.github.io/statistical-thinking/generating-data-from-models.html)</td>
-</tr>
-
-<tr>
-<td style="vertical-align:middle;" bgcolor="#bccBd8">**Assignment &#35;1 Due (Learning TinkerPlots)**</td>
 </tr>
 
 <tr>
@@ -56,9 +52,13 @@ Below is the tenative schedule for the class. The dates are subject to change at
 
 
 <tr>
-<td rowspan="2" align="center" style="vertical-align:middle;">&nbsp;</td>
-<td rowspan="2" style="vertical-align:middle;">Sept. 16</td>
+<td rowspan="3" align="center" style="vertical-align:middle;">&nbsp;</td>
+<td rowspan="3" style="vertical-align:middle;">Sept. 16</td>
 <td style="vertical-align:middle;">**_Reading:_** [Monte Carlo Simulation](https://zief0002.github.io/statistical-thinking/monte-carlo-simulation.html)</td>
+</tr>
+
+<tr>
+<td style="vertical-align:middle;" bgcolor="#bccBd8">**Assignment &#35;1 Due (Learning TinkerPlots)**</td>
 </tr>
 
 <tr>
@@ -66,18 +66,19 @@ Below is the tenative schedule for the class. The dates are subject to change at
 </tr>
 
 <tr>
-<td rowspan="2" align="center" style="vertical-align:middle;">&nbsp;</td>
-<td rowspan="2" style="vertical-align:middle;">Sept. 18</td>
-<td style="vertical-align:middle;" bgcolor="#bccBd8">**Assignment &#35;2 Due (Free Throws)**</td>
-</tr>
-
-<tr>
+<td rowspan="1" align="center" style="vertical-align:middle;">&nbsp;</td>
+<td rowspan="1" style="vertical-align:middle;">Sept. 18</td>
 <td style="vertical-align:middle;">Automating the Simulation Process</td>
 </tr>
 
 <tr>
-<td align="center" style="vertical-align:middle;">&nbsp;</td>
-<td style="vertical-align:middle;">Sept. 23</td>
+<td rowspan="2" align="center" style="vertical-align:middle;">&nbsp;</td>
+<td rowspan="2" style="vertical-align:middle;">Sept. 23</td>
+<td style="vertical-align:middle;" bgcolor="#bccBd8">**Assignment &#35;2 Due (Free Throws)**</td>
+
+</tr>
+
+<tr>
 <td style="vertical-align:middle;" bgcolor="#e6eb81">**Group Quiz &#35;1**</td>
 </tr>
 
@@ -103,7 +104,7 @@ Below is the tenative schedule for the class. The dates are subject to change at
 
 <tr>
 <td rowspan="3" align="center" style="vertical-align:middle;">&nbsp;</td>
-<td rowspan="3" style="vertical-align:middle;">Sept. 25</td>
+<td rowspan="3" style="vertical-align:middle;">Oct. 02</td>
 <td style="vertical-align:middle;">**_Reading:_** [Describing Distributions](https://zief0002.github.io/statistical-thinking/describing-distributions.html)</td>
 </tr>
 

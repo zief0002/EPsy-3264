@@ -18,7 +18,7 @@ Below are the due dates for the assignments, as well as links to the PDF files f
 
 <tr>
 <td>Assignment \#1: *Learning TinkerPlots*</td>
-<td>Sept. 11</td>
+<td>Sept. 16</td>
 <td align="center" style="vertical-align:middle;">
   <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/f19-assignment-01-learning-to-use-tinkerplots.pdf">
     <span class="fa fa-file-pdf" style="color: #ff2600; font-size: 20px;"></span>
@@ -29,7 +29,7 @@ Below are the due dates for the assignments, as well as links to the PDF files f
 
 <tr>
 <td>Assignment \#2: *Free Throws*</td>
-<td>Sept. 18</td>
+<td>Sept. 23</td>
 <td align="center" style="vertical-align:middle;">
   <a href="https://github.com/zief0002/epsy-3264/raw/master/assignments/f19-assignment-02-free-throws.pdf">
     <span class="fa fa-file-pdf" style="color: #ff2600; font-size: 20px;"></span>
