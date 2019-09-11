@@ -74,6 +74,18 @@ assignments. [Click here to download a ZIP file to your computer that includes a
 
 <br />
 
+### TinkerPlots on Campus{-}
+
+TinkerPlots is installed on four computers in the [Walter Library](https://campusmaps.umn.edu/walter-library) computer lab (WALIB 105; Computers 18&ndash;21). These computers are marked with a sign indicating that TinkerPlots is installed on them. 
+
+```{r echo=FALSE, fig.align='center'}
+knitr::include_graphics("img/walter-computer-lab.jpg")
+```
+
+
+
+<br />
+
 ### Getting Help{-}
 
 There are several things you can do to be successful in this course. First and foremost, complete all of the readings and come prepared to class. Complete all of the lab assignments. Ask questions. If you are experiencing problems, need help, or have any questions or other course-related concerns, do not hesitate to get in touch with the instructor or one of the Teaching Assisstants. Note: If you are unable to meet during the scheduled office hours, we can work with you to find a day/time that works in your schedule!
