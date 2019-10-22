@@ -1,17 +1,17 @@
 .header-panel {
-  background-image: url("img/umn-banner.jpg");
+  background-image: url("img/halloween.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-color: #9c27b0;
-  min-height: 144px;
+  min-height: 200px;
   position: relative;
   z-index: 3;
 }
 
 .header-panel h1 {
-    color: #FFF;
+    color: #ff7518;
     font-size: 28px;
-    padding-left: 35px;
+    padding-left: 10px;
     padding-bottom: 80px;
 }
 

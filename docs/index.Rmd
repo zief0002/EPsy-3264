@@ -1,5 +1,5 @@
 ---
-title: "EPsy 3264"
+title: "EPsy<br />3264"
 output:
   rmdformats::material:
     highlight: kate
