@@ -1,5 +1,5 @@
 .header-panel {
-  background-image: url("img/halloween.png");
+  background-image: url("img/dogs.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-color: #9c27b0;
@@ -9,7 +9,7 @@
 }
 
 .header-panel h1 {
-    color: #ff7518;
+    color: #ffd464;
     font-size: 28px;
     padding-left: 10px;
     padding-bottom: 80px;

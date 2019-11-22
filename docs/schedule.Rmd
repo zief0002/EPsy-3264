@@ -265,12 +265,18 @@ Below is the tenative schedule for the class. The dates are subject to change at
 <tr>
 <td align="center" style="vertical-align:middle;">&nbsp;</td>
 <td style="vertical-align:middle;">Nov. 27</td>
+<td style="vertical-align:middle;" bgcolor="#cc79a7">**No Class: Take a well-earned break**</td>
+</tr>
+
+<tr>
+<td align="center" style="vertical-align:middle;">&nbsp;</td>
+<td style="vertical-align:middle;">Dec. 02</td>
 <td style="vertical-align:middle;">Cuddling Preferences</td>
 </tr>
 
 <tr>
 <td rowspan="3" align="center" style="vertical-align:middle;">&nbsp;</td>
-<td rowspan="3" style="vertical-align:middle;">Dec. 02</td>
+<td rowspan="3" style="vertical-align:middle;">Dec. 04</td>
 <td style="vertical-align:middle;">**_Reading:_** [Uncertainty and Bias](https://zief0002.github.io/statistical-thinking/uncertainty-and-bias.html)</td>
 </tr>
 
@@ -284,24 +290,20 @@ Below is the tenative schedule for the class. The dates are subject to change at
 
 <tr>
 <td align="center" style="vertical-align:middle;">&nbsp;</td>
-<td style="vertical-align:middle;">Dec. 04</td>
+<td style="vertical-align:middle;">Dec. 09</td>
 <td style="vertical-align:middle;">Comparing Cuddling Preferences</td>
 </tr>
 
 <tr>
 <td align="center" style="vertical-align:middle;">&nbsp;</td>
-<td style="vertical-align:middle;">Dec. 09</td>
+<td style="vertical-align:middle;">Dec. 11</td>
 <td style="vertical-align:middle;" bgcolor="#e6eb81">**Group Quiz &#35;5**</td>
 </tr>
 
 <tr>
 <td rowspan="2" align="center" style="vertical-align:middle;">&nbsp;</td>
-<td rowspan="2" style="vertical-align:middle;">Dec. 11</td>
-<td style="vertical-align:middle;" bgcolor="#bccBd8">**Assignment &#35;8 Due (Dolphins and Pigs)**</td>
-</tr>
-
-<tr>
-<td style="vertical-align:middle;">TBA</td>
+<td rowspan="2" style="vertical-align:middle;">Dec. 12</td>
+<td style="vertical-align:middle;" bgcolor="#bccBd8">**Assignment &#35;8 Due (Dolphins and Pigs)**<br />Due by 12:00pm in EdSciB 250</td>
 </tr>
 
 </tbody>
