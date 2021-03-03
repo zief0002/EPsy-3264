@@ -2,10 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
-
-
 # Ignore the following folders
 /administrative
 statistical-thinking-v4_2.pdf
-
-
+.httr-oauth
